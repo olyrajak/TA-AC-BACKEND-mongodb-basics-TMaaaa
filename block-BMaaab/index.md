@@ -106,6 +106,12 @@ Write code to
 <!-- use india -->
 
 - check list of databases to see newly created database.
-<!-- show dbs -->
+<!-- show dbs 
+admin    40.00 KiB
+config  108.00 KiB
+local    40.00 KiB
+
+
+-->
 - check which database you are currently connected to ?
 <!-- db -->
