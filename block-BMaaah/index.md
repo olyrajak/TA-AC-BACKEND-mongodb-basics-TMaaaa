@@ -119,7 +119,7 @@ switched to db blog -->
     title: 'Articles 3',
     details: 'description3',
     author: { name: 'articles3', email: 'articles3@email.com', age: '22' },
-    tags: [ 'main', 'section', 'header' ]
+    tags: [ 'main', 'section', 'header']
   },
   {
     _id: ObjectId("634bf7ff18dec09d212c927f"),
