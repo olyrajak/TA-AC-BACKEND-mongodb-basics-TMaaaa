@@ -351,6 +351,9 @@ OUTPUT
   scaleFactor: 1,
   ok: 1
 }
+
+
+
  -->
 - Delete `humidity` collection and then the entire database(weather).
 <!-- db.humidity.drop()
