@@ -169,6 +169,8 @@ delete Old data -->
 - check whether a collection is capped or not?
 
 <!--  
+db.khokho.isCapped()
+db.tennis.isCapped()
 db.football.stats()
 db.tennis.stats()
 
