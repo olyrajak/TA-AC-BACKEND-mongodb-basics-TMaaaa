@@ -99,7 +99,7 @@ TT
 { ok: 1 } -->
 - create a capped collection called `khokho` which should have max 3 documents.
 <!-- 
-db.createCollection("khokho", {capped: true, size: 3})
+db.createCollection("khokho", {capped: true,size:2048, max: 3})
 { ok: 1 }
 
  -->
