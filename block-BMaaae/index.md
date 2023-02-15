@@ -186,6 +186,7 @@ true
 - delete sports database.
 <!-- db.dropDatabase()
 { ok: 1, dropped: 'sports' }
+
  -->
 - check which database you are connected to ?
  <!-- db
